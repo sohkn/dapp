@@ -1,0 +1,63 @@
+{
+	"compiler": {
+		"version": "0.8.6+commit.11564f7e"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"stateMutability": "nonpayable",
+				"type": "constructor"
+			},
+			{
+				"inputs": [],
+				"name": "get",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"src\\contracts\\voteCount.sol": "voteCount"
+		},
+		"evmVersion": "berlin",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"src\\contracts\\voteCount.sol": {
+			"keccak256": "0xcd330a5f60710fa8816798d4ed2b38c7b3ea4871205e5f3f219e2c75855c6ea1",
+			"urls": [
+				"bzz-raw://a36544a5f8fe217f9ec6d97cf5e1b96a0a504b262f6faad0e4943e69f91bf3e3",
+				"dweb:/ipfs/QmW52tVNL7v5CYTmc2RYjMvAC3Mrk2t5aVJ9CuyAWf2BrX"
+			]
+		}
+	},
+	"version": 1
+}

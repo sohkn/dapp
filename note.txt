@@ -1,0 +1,13 @@
+확장 프로그램
+solidity - Ethereum Solidity Language 문법 체크
+Ethereum Remix - Ethereum Remix plugins in VSCode
+live server
+
+truffle init
+truffle 기본 개발환경 구성
+
+web3 js 참고 사이트
+https://muyu.tistory.com/entry/Ethereum-web3js-%EC%82%AC%EC%9A%A9%EB%B2%95-%EA%B0%84%EB%8B%A8-%EC%9A%94%EC%95%BD
+
+https://dukdukz.tistory.com/entry/%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8-%EC%8A%A4%EB%A7%88%ED%8A%B8-%EC%BB%A8%ED%8A%B8%EB%A0%89%ED%8A%B8-%EA%B0%84%EB%8B%A8-%EC%8B%A4%EC%8A%B5
+
