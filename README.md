@@ -1,18 +1,18 @@
 web3js 라이브러리 설치
-# npm install web3js
+npm install web3js
 
-# 작성한 contract
-# src/contracts/voteCount.sol
+작성한 contract
+src/contracts/voteCount.sol
 
-# 작성한 javascript
-# web3js/index.js
+작성한 javascript
+web3js/index.js
 
 
 
-# vscode 확장 프로그램 설치
-# live server 
+vscode 확장 프로그램 설치
+live server 
 
-# 브라우저에서 콘솔 확인      http://127.0.0.1:5500/web3js/
+브라우저에서 콘솔 확인      http://127.0.0.1:5500/web3js/
 
 
 --------------------------------
@@ -37,6 +37,6 @@ web3js 라이브러리 설치
 
 
 
-# web3js 참고한 사이트
-# https://muyu.tistory.com/entry/Ethereum-web3js-%EC%82%AC%EC%9A%A9%EB%B2%95-%EA%B0%84%EB%8B%A8-%EC%9A%94%EC%95%BD
-# https://dukdukz.tistory.com/entry/%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8-%EC%8A%A4%EB%A7%88%ED%8A%B8-%EC%BB%A8%ED%8A%B8%EB%A0%89%ED%8A%B8-%EA%B0%84%EB%8B%A8-%EC%8B%A4%EC%8A%B5
+web3js 참고한 사이트
+https://muyu.tistory.com/entry/Ethereum-web3js-%EC%82%AC%EC%9A%A9%EB%B2%95-%EA%B0%84%EB%8B%A8-%EC%9A%94%EC%95%BD
+https://dukdukz.tistory.com/entry/%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8-%EC%8A%A4%EB%A7%88%ED%8A%B8-%EC%BB%A8%ED%8A%B8%EB%A0%89%ED%8A%B8-%EA%B0%84%EB%8B%A8-%EC%8B%A4%EC%8A%B5
