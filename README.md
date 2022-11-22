@@ -9,7 +9,7 @@ web3js/index.js
 
 
 
-vscode 확장 프로그램 설치
+# vscode 확장 프로그램 설치
 live server 
 
 # 브라우저에서 콘솔 확인   
