@@ -1,4 +1,4 @@
-# web3js 라이브러리 설치
+web3js 라이브러리 설치
 # npm install web3js
 
 # 작성한 contract
